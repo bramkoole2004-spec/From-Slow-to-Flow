@@ -2,3 +2,4 @@ Op deze pagina is zijn alle details over het project 'From Slow to Flow' te zien
 
 <img width="949" height="731" alt="afbeelding" src="https://github.com/user-attachments/assets/6eb1b507-3ffa-493e-95a8-b296e3e5c362" />
 
+Ringing project: https://github.com/S1146468/Project-Buck-Converter
